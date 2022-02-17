@@ -2,7 +2,7 @@
 "self": false,
 "autoread": true,
 "autoketik": true,
-"autovn": false,
+"autovn": true,
 "OwnerNumber": "6288220195739",
 "OwnerName": "DIKA STORE",
 "BotName": "Dika Bot",
